@@ -28,7 +28,7 @@ Take a look at some of my notable projects:
 - [Twitter Clone](https://twitter-shreyas.vercel.app): Experience the buzz of real-time microblogging with our Twitter clone, where you can share your thoughts, connect with others, and stay updated on trending topics.
 - [Facebook Clone](https://facebook-clone-shreyas.vercel.app): Connect, share, and engage with our Facebook clone, a social media platform where you can connect with friends, share updates, and explore a vibrant online community.
 - [Meseenger Clone](https://messenger-shreyas.vercel.app): Stay connected and chat with friends in real-time with our Messenger clone, a secure messaging platform with features like text messages, voice calls, and file sharing.
-- [Delve - Food Ordering App](https://delve-restaurant.vercel.app): Satisfy your cravings effortlessly with Delve, our food ordering app that lets you discover local restaurants, browse menus, and conveniently place orders for delivery or pickup.
+- [Food Ordering App](https://delve-restaurant.vercel.app): Satisfy your cravings effortlessly with Delve, our food ordering app that lets you discover local restaurants, browse menus, and conveniently place orders for delivery or pickup.
 
 ## Skills
 
