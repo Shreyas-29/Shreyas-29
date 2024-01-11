@@ -34,8 +34,8 @@ Take a look at some of my notable projects:
 ## Skills
 
 - **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl
-- **Frameworks and Technologies**: React js, Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma, React Native
-- **Databases**: Planetscale, Firebase, MongoDB
+- **Frameworks and Technologies**: React js, React Native (expo), Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma
+- **Databases**: Planetscale, Firebase, MongoDB, Neon DB
 - **Problem-Solving**: I excel at tackling complex problems by breaking them down into manageable steps, analyzing possible solutions, and implementing innovative strategies.
 
 ## Get in Touch
