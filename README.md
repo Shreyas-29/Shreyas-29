@@ -29,11 +29,12 @@ Take a look at some of my notable projects:
 - [Facebook Clone](https://facebook-clone-shreyas.vercel.app): Connect, share, and engage with our Facebook clone, a social media platform where you can connect with friends, share updates, and explore a vibrant online community.
 - [Meseenger Clone](https://messenger-shreyas.vercel.app): Stay connected and chat with friends in real-time with our Messenger clone, a secure messaging platform with features like text messages, voice calls, and file sharing.
 - [Food Ordering App](https://delve-restaurant.vercel.app): Satisfy your cravings effortlessly with Delve, our food ordering app that lets you discover local restaurants, browse menus, and conveniently place orders for delivery or pickup.
+- [News App](https://expo.dev//accounts/shreyas29/projects/scoop/builds/e455d2af-6fbe-4158-8c61-196907aac952): Simple news app built with react native, to get you touch with the world.
 
 ## Skills
 
 - **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl
-- **Frameworks and Technologies**: React js, Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma
+- **Frameworks and Technologies**: React js, Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma, React Native
 - **Databases**: Planetscale, Firebase, MongoDB
 - **Problem-Solving**: I excel at tackling complex problems by breaking them down into manageable steps, analyzing possible solutions, and implementing innovative strategies.
 
