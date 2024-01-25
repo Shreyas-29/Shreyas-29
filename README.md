@@ -48,6 +48,7 @@ You can also find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238)
 - [Portfolio](https://portfolio-shreyas.vercel.app)
+- [Youtube](https://youtube.com/@webtech29?si=owFYFztQEc7fIfLG)
 
 Thank you for visiting my GitHub homepage. I look forward to connecting with you!
 
