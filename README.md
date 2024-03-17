@@ -35,7 +35,7 @@ Take a look at some of my notable projects:
 
 - **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl
 - **Frameworks and Technologies**: React js, React Native (expo), Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma
-- **Databases**: Planetscale, Firebase, MongoDB, Neon DB
+- **Databases**: Planetscale, Firebase, MongoDB
 - **Problem-Solving**: I excel at tackling complex problems by breaking them down into manageable steps, analyzing possible solutions, and implementing innovative strategies.
 
 ## Get in Touch
@@ -47,8 +47,9 @@ I am open to collaborations, freelance opportunities, and connecting with like-m
 You can also find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238)
-- [Portfolio](https://portfolio-shreyas.vercel.app)
+- [Portfolio](https://shreyas-sihasane.vercel.app)
 - [Youtube](https://youtube.com/@webtech29?si=owFYFztQEc7fIfLG)
+- [Twitter](https://x.com/shreyassihasane?t=XYdh_WHCvZVShWqmuYS_ww&s=09)
 
 Thank you for visiting my GitHub homepage. I look forward to connecting with you!
 
