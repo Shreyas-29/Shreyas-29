@@ -25,7 +25,7 @@ I'm a full-stack developer who loves building web and mobile apps that are fast,
 
 Take a look at some of my notable projects:
 
-- [AI Notes Taking App](https://synote-ai-app.vercel.app/): Full fledge AI-Powered personalized notes taking app to track your projects, goals and milestones.
+- [Synote](https://synote-ai-app.vercel.app/): Full fledge AI-Powered personalized notes taking app to track your projects, goals and milestones.
 - [Caps AI](https://caps-ai.vercel.app/): Modern landing page for your next generation content creation SaaS.
 - [Cura](https://cura-ai.vercel.app/): A health assistant platform that leverages AI to provide personalized health and wellness recommendations.
 - [Propease](https://propease-app.vercel.app/): Modern SaaS landing for your real estate business.
