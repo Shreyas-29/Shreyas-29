@@ -19,24 +19,26 @@ Welcome to my personal GitHub homepage! This repository serves as a hub for show
 
 ## About Me
 
-I am currently pursuing my B. Tech degree in Mechanical Engineering, but my passion for coding in web and software development has led me to explore the world of programming. I am fascinated by the endless possibilities and the ability to bring ideas to life through code. With a strong foundation in engineering principles and a growing skill set in coding, I strive to combine the best of both worlds in my projects. Let's create something amazing together!
+I'm a full-stack developer who loves building web and mobile apps that are fast, smooth, modern and easy to use. I work with technologies like Next.js, React, Tailwind CSS, FastAPI, and Flask to create AI-powered tools, automation projects, and SaaS products. Over the past three years, I’ve worked with clients from different countries, helping them turn ideas into real, working solutions. I enjoy solving problems, making things more efficient, and creating products that not only work well but also feel great to use.
 
 ## Projects
 
 Take a look at some of my notable projects:
 
-- [Twitter Clone](https://twitter-shreyas.vercel.app): Experience the buzz of real-time microblogging with our Twitter clone, where you can share your thoughts, connect with others, and stay updated on trending topics.
-- [Facebook Clone](https://facebook-clone-shreyas.vercel.app): Connect, share, and engage with our Facebook clone, a social media platform where you can connect with friends, share updates, and explore a vibrant online community.
-- [Meseenger Clone](https://messenger-shreyas.vercel.app): Stay connected and chat with friends in real-time with our Messenger clone, a secure messaging platform with features like text messages, voice calls, and file sharing.
-- [Food Ordering App](https://delve-restaurant.vercel.app): Satisfy your cravings effortlessly with Delve, our food ordering app that lets you discover local restaurants, browse menus, and conveniently place orders for delivery or pickup.
+- [AI Notes Taking App](https://synote-ai-app.vercel.app/): Full fledge AI-Powered personalized notes taking app to track your projects, goals and milestones.
+- [Caps AI](https://caps-ai.vercel.app/): Modern landing page for your next generation content creation SaaS.
+- [Cura](https://cura-ai.vercel.app/): A health assistant platform that leverages AI to provide personalized health and wellness recommendations.
+- [Propease](https://propease-app.vercel.app/): Modern SaaS landing for your real estate business.
+- [Luro AI](https://luro-ai.vercel.app/): A Modern UI Website for your next generation SaaS
+- [Twitter Clone](https://twitter-shreyas.vercel.app): A simple twitter clone web application.
+- [Facebook Clone](https://facebook-clone-shreyas.vercel.app): Connect, share, and engage with Facebook clone.
 - [News App](https://expo.dev//accounts/shreyas29/projects/scoop/builds/e455d2af-6fbe-4158-8c61-196907aac952): Simple news app built with react native, to get you touch with the world.
 
 ## Skills
 
-- **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl
-- **Frameworks and Technologies**: React js, React Native (expo), Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma
+- **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl, Python
+- **Frameworks and Technologies**: React js, React Native (Expo), Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma, Flask
 - **Databases**: Planetscale, Firebase, MongoDB
-- **Problem-Solving**: I excel at tackling complex problems by breaking them down into manageable steps, analyzing possible solutions, and implementing innovative strategies.
 
 ## Get in Touch
 
