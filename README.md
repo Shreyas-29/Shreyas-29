@@ -49,7 +49,7 @@ I am open to collaborations, freelance opportunities, and connecting with like-m
 You can also find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238)
-- [Portfolio](https://shreyas-sihasane.vercel.app)
+- [Portfolio](https://heyshreyas.in)
 - [Youtube](https://youtube.com/@webtech29?si=owFYFztQEc7fIfLG)
 - [Twitter](https://x.com/shreyassihasane?t=XYdh_WHCvZVShWqmuYS_ww&s=09)
 
