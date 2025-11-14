@@ -50,7 +50,7 @@ You can also find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238)
 - [Portfolio](https://heyshreyas.in)
-- [Youtube](https://youtube.com/@webtech29?si=owFYFztQEc7fIfLG)
+- [Youtube](https://youtube.com/@shreyas.sihasane)
 - [Twitter](https://x.com/shreyassihasane?t=XYdh_WHCvZVShWqmuYS_ww&s=09)
 
 Thank you for visiting my GitHub homepage. I look forward to connecting with you!
