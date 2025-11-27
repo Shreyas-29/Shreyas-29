@@ -1,57 +1,123 @@
-<!--
-**Shreyas-29/Shreyas-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+# 👋 Hey, I'm **Shreyas**
 
-Here are some ideas to get you started:
+### **Full-Stack Engineer • AI SaaS Builder • Founder of TryScribe V2**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<!-- Badges -->
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Paddle](https://img.shields.io/badge/Paddle-0814D4?style=flat-square&logo=paddle&logoColor=white)
 
-# Hello, I'm Shreyas 👋
+  
+**I build AI-first SaaS products, creator-focused tools, and fast MVPs.**  
+I ship things end-to-end: idea → design → frontend → backend → infra → launch.
 
-Welcome to my personal GitHub homepage! This repository serves as a hub for showcasing my projects, skills, and interests. Feel free to explore and get to know more about me.
+</div>
 
-## About Me
+---
 
-I'm a full-stack developer who loves building web and mobile apps that are fast, smooth, modern and easy to use. I work with technologies like Next.js, React, Tailwind CSS, FastAPI, and Flask to create AI-powered tools, automation projects, and SaaS products. Over the past three years, I’ve worked with clients from different countries, helping them turn ideas into real, working solutions. I enjoy solving problems, making things more efficient, and creating products that not only work well but also feel great to use.
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img width="20" height="20" alt="tryscribe" src="https://github.com/user-attachments/assets/0b29df7c-5d14-48de-9c7d-2d927fd15903" />
+  Currently Building: TryScribe V2 — AI Hook Analyzer
+</h2>
 
-## Projects
+The new TryScribe V2 focuses on:
+- 🔥 **Hook Analyzer** for YouTube Shorts creators  
+- 🧠 **AI content insights & viral score prediction**  
+- ✏️ **Script → breakdown → improvement suggestions**  
+- ⚡ **Fast, opinionated creator workspace**
 
-Take a look at some of my notable projects:
+> Built with **Next.js, FastAPI, Paddle, MongoDB, AI inference pipelines**.
 
-- [Synote](https://synote-ai-app.vercel.app/): Full fledge AI-Powered personalized notes taking app to track your projects, goals and milestones.
-- [Caps AI](https://caps-ai.vercel.app/): Modern landing page for your next generation content creation SaaS.
-- [Cura](https://cura-ai.vercel.app/): A health assistant platform that leverages AI to provide personalized health and wellness recommendations.
-- [Propease](https://propease-app.vercel.app/): Modern SaaS landing for your real estate business.
-- [Luro AI](https://luro-ai.vercel.app/): A Modern UI Website for your next generation SaaS
-- [Twitter Clone](https://twitter-shreyas.vercel.app): A simple twitter clone web application.
-- [Facebook Clone](https://facebook-clone-shreyas.vercel.app): Connect, share, and engage with Facebook clone.
-- [News App](https://expo.dev//accounts/shreyas29/projects/scoop/builds/e455d2af-6fbe-4158-8c61-196907aac952): Simple news app built with react native, to get you touch with the world.
+120+ users already testing early versions.
 
-## Skills
+---
 
-- **Programming Languages**: HTML, CSS, Javascript, Typescript, Node.js, GraphQl, Python
-- **Frameworks and Technologies**: React js, React Native (Expo), Next.js, Tailwindcss, Zustand, Framer Motion, Next-auth, Prisma, Flask
-- **Databases**: Planetscale, Firebase, MongoDB
+## 🧩 **What I Do**
+- ⚡ Build **AI-powered SaaS products**  
+- 🛠️ Develop **rapid MVPs** for founders (3–6 week cycle)  
+- 🎨 Craft clean UI/UX with Tailwind + motion  
+- 🔌 Integrate AI: OpenAI, Gemini, embeddings, RAG  
+- 💳 Set up billing with Stripe / Paddle  
+- 🧱 Architect full-stack apps with modern infra (Vercel + Render + AWS)  
 
-## Get in Touch
 
-I am open to collaborations, freelance opportunities, and connecting with like-minded individuals. Feel free to reach out to me via email at sihasaneshreyas@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238). Let's create something awesome together!
+---
 
-## Let's Connect
+## 🔥 **Featured Projects**
 
-You can also find me on:
+### **⭐ TryScribe V2 — AI Hook Analyzer (2025)**
+AI-powered hook breakdown, content scoring, creator insights and AI rewrite.  
+**Tech:** Next.js, FastAPI, Paddle, Prisma, AWS
 
-- [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238)
-- [Portfolio](https://heyshreyas.in)
-- [Youtube](https://youtube.com/@shreyas.sihasane)
-- [Twitter](https://x.com/shreyassihasane?t=XYdh_WHCvZVShWqmuYS_ww&s=09)
+🔗 https://hook.tryscribe.in
 
-Thank you for visiting my GitHub homepage. I look forward to connecting with you!
+---
 
+### **Synote — AI Notes Assistant**
+Real-time notes generation → summaries → action items → sharing.  
+**Tech:** Next.js, Prisma, Stripe, Gemini AI  
+🔗 https://synote-ai-app.vercel.app
+
+---
+
+### **Cura — AI Health Assistant**
+AI wellness & personalized fitness suggestions with medications.  
+**Tech:** Next.js, MongoDB, Gemini  
+🔗 https://cura-ai.vercel.app
+
+---
+
+### **Caps AI — Modern SaaS Template**
+Dark, smooth, animated landing page for AI SaaS ideas.  
+**Tech:** Next.js, Tailwind, Framer Motion  
+🔗 https://caps-ai.vercel.app
+
+---
+
+## 🧠 **Tech Stack**
+
+**Frontend:**  
+> Next.js • React • Tailwind • TypeScript • React Native
+
+**Backend:**  
+> FastAPI • Flask • Node.js • REST APIs • Auth (Clerk/Firebase)
+
+**AI:**  
+> OpenAI • Gemini • Embeddings • RAG Systems • LLM Orchestration
+
+**Databases:**  
+> Supabase • MongoDB • NeonDB • Redis
+
+**Payments:**  
+> Stripe • Paddle
+
+**Infra:**  
+> Vercel • Render • Docker • AWS
+
+---
+
+## 📬 **Let's Connect**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://heyshreyas.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-sihasane-441b95238/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shreyassihasane)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shreyas.sihasane)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihasaneshreyas@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *Thanks for visiting - I’m always building something new.*
+
+</div>
