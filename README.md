@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm **Shreyas**
 
-### **Full-Stack Engineer • AI SaaS Builder • Founder of TryScribe V2**
+### **Full-Stack Engineer**
 
   
 <!-- Badges -->
@@ -51,32 +51,32 @@ The new TryScribe V2 focuses on:
 
 ## 🔥 **Featured Projects**
 
-### **⭐ TryScribe V2 — AI Hook Analyzer (2025)**
+### **⭐ TryScribe V2 — AI Hook Analyzer (2026)**
 AI-powered hook breakdown, content scoring, creator insights and AI rewrite.  
 **Tech:** Next.js, FastAPI, Paddle, Prisma, AWS
 
-🔗 https://hook.tryscribe.in
+🔗 [View](https://hook.tryscribe.in)
 
 ---
 
 ### **Synote — AI Notes Assistant**
 Real-time notes generation → summaries → action items → sharing.  
 **Tech:** Next.js, Prisma, Stripe, Gemini AI  
-🔗 https://synote-ai-app.vercel.app
+🔗 [View](https://synote-ai-app.vercel.app)
 
 ---
 
 ### **Cura — AI Health Assistant**
 AI wellness & personalized fitness suggestions with medications.  
 **Tech:** Next.js, MongoDB, Gemini  
-🔗 https://cura-ai.vercel.app
+🔗 [View](https://cura-ai.vercel.app)
 
 ---
 
 ### **Caps AI — Modern SaaS Template**
 Dark, smooth, animated landing page for AI SaaS ideas.  
 **Tech:** Next.js, Tailwind, Framer Motion  
-🔗 https://caps-ai.vercel.app
+🔗 [View](https://caps-ai.vercel.app)
 
 ---
 
@@ -118,6 +118,6 @@ Dark, smooth, animated landing page for AI SaaS ideas.
 
 <div align="center">
 
-### ⭐ *Thanks for visiting - I’m always building something new.*
+### *Open for opportunities*
 
 </div>
