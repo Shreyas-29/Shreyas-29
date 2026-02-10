@@ -36,7 +36,7 @@ The specialized design tool for founders building in public. Turn revenue metric
 ---
 
 ## 🧩 **What I Do**
-- ⚡ Build **AI-powered SaaS products** and developer **rapid MVPs**
+- ⚡ Build **AI-powered SaaS products** and develop **rapid MVPs**
 - 🐳 Dockerize applications (multi-stage builds)
 - 🔌 Integrate AI: OpenAI, Gemini, embeddings, RAG  
 - 💳 Set up billing with Stripe / Paddle  
